@@ -12,7 +12,7 @@ This repository serves as my personal archive of Data Structures and Algorithms 
 ## ✨ Features
 
 - **Problem-per-folder organization** — Every NeetCode problem lives in its own dedicated folder for easy navigation and version control of submissions.
-- **Pure C++ solutions** — 100% C++ with standard library usage where appropriate.
+- **Pure C++ solutions** - 100% C++ with standard library usage where appropriate.
 - **Submission tracking** — Multiple iterations (e.g., `submission-0.cpp`) are preserved to show evolution of thought.
 - **NeetCode-aligned** — Solutions follow the official NeetCode 150 structure and difficulty progression.
 - **Ready to run** — Files are self-contained and can be directly compiled/tested.
