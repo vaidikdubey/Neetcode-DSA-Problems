@@ -30,4 +30,4 @@ Neetcode-DSA-Problems/
 │   │   └── submission-0.cpp
 │   └── ...                               # More problems will be added here
 ├── .gitignore
-└── (README.md — you're reading it!)
+└── (README.md — you are reading it!)
